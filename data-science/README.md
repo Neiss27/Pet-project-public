@@ -1,7 +1,7 @@
 ### [Pet-project](https://github.com/Neiss27/Pet-project) 
-Мои проекты (pet-projects). Выполнены за время обучения в Data Learn ML или после него + иногда репозиторий пополняется.
+My projects (pet-projects). Completed during training in Data Learn ML or after it + sometimes the repository is updated.
 
-| Название проекта | Описание| Навыки и инструменты |
+| Name projects | Description | Skills and instruments |
 | :--------------------: | :---------------------: |:---------------------------:|
 | [50 startups - Regression task](https://github.com/Neiss27/Pet-project-public/tree/main/data-science/Regression "50 startups") | Predict which companies to invest for maximizing profit | python, pandas, numpy, seaborn, matplotlib, sklearn, scipy, EDA, Data Science and Machine Learning |
 | [Gender - Binary Classification task](https://github.com/Neiss27/Pet-project-public/tree/main/data-science/Binary%20Classification%20-%20Gender "Gender") | Classifying gender based on personal preferences | python, pandas, numpy, seaborn, matplotlib, sklearn, EDA, Data Science and Machine Learning |
